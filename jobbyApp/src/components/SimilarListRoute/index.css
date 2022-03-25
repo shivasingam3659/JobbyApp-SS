@@ -1,0 +1,40 @@
+.similar-job-container {
+  background-color: #272727;
+  color: white;
+  padding: 25px;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  list-style-type: none;
+  display: flex;
+  width: 40%;
+  flex-direction: column;
+}
+.similar-job-row {
+  display: flex;
+}
+.similar-job-logo {
+  width: 100px;
+  height: 100px;
+  align-self: center;
+  margin-right: 15px;
+}
+.similar-job-title {
+  font-size: 22px;
+  font-weight: 600;
+}
+.similar-job-rating {
+  font-size: 22px;
+  font-weight: 600;
+}
+.similar-job-rating-icon {
+  color: #fbbf24;
+}
+.similar-job-icons {
+  margin-right: 7px;
+}
+.similar-job-address {
+  font-size: 20px;
+  font-weight: 400;
+  margin-right: 30px;
+}
